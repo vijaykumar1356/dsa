@@ -1,0 +1,7 @@
+1. store contiguous data of same data type.
+    * random access of element in array data structure (time complexity O(1))
+    * Linear Search - O(n)
+    * Insertion at a given index - O(n) list.insert()
+    * Deletion of a given element - O(n) list.remove(<element>)
+2. Python -> Dynamic Array (no need to pre-define the size of the array)
+3. C++, Java -> Static Array
